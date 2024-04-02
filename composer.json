@@ -1,0 +1,13 @@
+{
+    "name": "verdient/hyperf3-exception-alertor-wechat-work",
+    "type": "library",
+    "require": {
+        "verdient/hyperf3-exception": "^1.0",
+        "verdient/wechat-work": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Verdient\\Hyperf3\\Exception\\Alertor\\": "src"
+        }
+    }
+}
